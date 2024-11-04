@@ -2,4 +2,4 @@
 
 This repository contains the source code for the EPC PHY Layer Signal Generator. The EPC PHY Layer Signal Generator is a software tool that generates the baseband signal for the EPC UHF RFID standard.
 
-![Screenshot](misc/screenshot_windows.png)
+<img src="misc/screenshot_windows.png" width="400">
